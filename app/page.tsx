@@ -1,4 +1,3 @@
-import { TypographyH3 } from '@/components/ui/typography-h3'
 import { Button } from '@/components/ui/button'
 import { TypographyH1 } from '@/components/ui/typography-h1'
 import Link from 'next/link'
